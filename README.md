@@ -70,6 +70,12 @@ Joblib (model persistence)
 Execution Steps
 
 Place all required CSV files in the zelo folder.
+Download dataset from kaggle 
+https://www.kaggle.com/competitions/zillow-prize-1/data
+train_2016_v2.csv
+train_2017.csv
+properties_2016.csv
+properties_2017.csv
 
 Run the Python file:
 python Zillow.ipynb
